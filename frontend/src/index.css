@@ -22,7 +22,12 @@ header .container {
   align-items: center;
   justify-content: space-between;
   text-align: right; /* Add this line to align text to the right */
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  
 }
+
 
 header a {
   color: #333;
