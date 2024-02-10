@@ -21,7 +21,9 @@ header .container {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  text-align: right; /* Add this line to align text to the right */
 }
+
 header a {
   color: #333;
   text-decoration: none;
